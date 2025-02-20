@@ -1,6 +1,4 @@
 {
-    "username": "your_username",
-    "password": "your_password",
     "poll_interval": 10,
     "media_upload": {
         "default_caption": "Posted via InstaAPI",
