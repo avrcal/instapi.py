@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="instapi.py",
     version="0.2.0",
-    author="avrcal',
+    author="avrcal",
     description="Instagram API client with event-driven architecture",
     packages=find_packages(),
     install_requires=[
