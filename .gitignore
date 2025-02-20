@@ -1,0 +1,32 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environment
+venv/
+env/
+
+# Test and coverage reports
+*.log
+*.coverage
+coverage.xml
+
+# Build artifacts
+build/
+dist/
+*.egg
+
+# Local configuration
+*.env
+*.local
+
+# IDE files
+.idea/
+.vscode/
+
+# Instapi specific
+session.json
+config/*.json
